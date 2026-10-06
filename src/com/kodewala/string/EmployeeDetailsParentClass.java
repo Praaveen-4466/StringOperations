@@ -8,6 +8,7 @@ public class EmployeeDetailsParentClass {
 	public EmployeeDetailsParentClass(String _name, String _employeeId) {
 		this.name = _name;
 		this.employeeId = _employeeId;
+		System.out.println("Parent Class Constructor got Executed");
 	}
 	
 	

@@ -9,7 +9,7 @@ public class DriversClass {
 				"EMP103|Anil Sharma|Intern| IT | 25000 | anil.sharmas@company.com"
 		};
 		
-		UserNameExtraction.method1(employeeDetails);;
+		EmployeeDomainExtraction.method1(employeeDetails);;
 		
 	}
 
